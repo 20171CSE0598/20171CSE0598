@@ -10,4 +10,6 @@ printf("a value is %d and b value is %d\n",a,b);
 printf("%d,%d\n",a,b);
 
 //test
-printf("Saa")
+printf("Saa");
+printf("Dada");
+  
