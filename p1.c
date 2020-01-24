@@ -13,5 +13,4 @@ printf("%d,%d\n",a,b);
 printf("Saa");
 printf("Dada");
 //lala
-printf("HAHAHAA");
-  
+printf("HAHAHAHAHA")
